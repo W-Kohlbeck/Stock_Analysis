@@ -18,7 +18,10 @@ Original code analyzed each stock independently using a nested for loop which is
 
 #### Original Code vs Refactored Code
 
-Original <img width="400" alt="Original_Code" src="https://user-images.githubusercontent.com/102195085/167179936-5c6c2050-999a-49c6-b1e6-aad7ca5b1ecf.png">    Refactored <img width="400" alt="Refactored_Code" src="https://user-images.githubusercontent.com/102195085/167179954-610a5831-6fb8-4a3d-af7b-26f1d381c2ca.png">
+Original 
+<img width="400" alt="Original_Code" src="https://user-images.githubusercontent.com/102195085/167179936-5c6c2050-999a-49c6-b1e6-aad7ca5b1ecf.png">    
+Refactored 
+<img width="400" alt="Refactored_Code" src="https://user-images.githubusercontent.com/102195085/167179954-610a5831-6fb8-4a3d-af7b-26f1d381c2ca.png">
 
 ### Results
 
@@ -26,11 +29,17 @@ By refactoring the original code the efficiency improved across the board. For e
 
 #### 2017
 
-Original <img width="400" alt="VBA_Challenge_2017_Original" src="https://user-images.githubusercontent.com/102195085/167182658-9263bea1-e9da-4fab-be67-c32f15b49299.png">    Refactored <img width="400" alt="VBA_Challenge_2017_Refactored" src="https://user-images.githubusercontent.com/102195085/167182695-d48df0c2-4ec5-4f57-9c13-5bbaf6f95f92.png">
+Original
+<img width="400" alt="VBA_Challenge_2017_Original" src="https://user-images.githubusercontent.com/102195085/167182658-9263bea1-e9da-4fab-be67-c32f15b49299.png">    
+Refactored 
+<img width="400" alt="VBA_Challenge_2017_Refactored" src="https://user-images.githubusercontent.com/102195085/167182695-d48df0c2-4ec5-4f57-9c13-5bbaf6f95f92.png">
 
 #### 2018
 
-Original <img width="400" alt="VBA_Challenge_2018_Original" src="https://user-images.githubusercontent.com/102195085/167182777-6cd90565-88b0-4439-9e88-54f2aa37b871.png">    Refactored <img width="400" alt="VBA_Challenge_2018_Refactored" src="https://user-images.githubusercontent.com/102195085/167182785-2e8788bb-cd15-42b2-93f3-3c5ee2de3fe0.png">
+Original 
+<img width="400" alt="VBA_Challenge_2018_Original" src="https://user-images.githubusercontent.com/102195085/167182777-6cd90565-88b0-4439-9e88-54f2aa37b871.png">    
+Refactored 
+<img width="400" alt="VBA_Challenge_2018_Refactored" src="https://user-images.githubusercontent.com/102195085/167182785-2e8788bb-cd15-42b2-93f3-3c5ee2de3fe0.png">
 
 ## Summary
 
