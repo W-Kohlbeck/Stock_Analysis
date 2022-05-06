@@ -35,15 +35,19 @@ By refactoring the original code the efficiency improved across the board. For e
 ##### Original
 
 <img width="400" alt="VBA_Challenge_2017_Original" src="https://user-images.githubusercontent.com/102195085/167182658-9263bea1-e9da-4fab-be67-c32f15b49299.png">    
+
 ##### Refactored 
 
 <img width="400" alt="VBA_Challenge_2017_Refactored" src="https://user-images.githubusercontent.com/102195085/167182695-d48df0c2-4ec5-4f57-9c13-5bbaf6f95f92.png">
 
 #### 2018
 
-Original 
+##### Original 
+
 <img width="400" alt="VBA_Challenge_2018_Original" src="https://user-images.githubusercontent.com/102195085/167182777-6cd90565-88b0-4439-9e88-54f2aa37b871.png">    
-Refactored 
+
+##### Refactored
+
 <img width="400" alt="VBA_Challenge_2018_Refactored" src="https://user-images.githubusercontent.com/102195085/167182785-2e8788bb-cd15-42b2-93f3-3c5ee2de3fe0.png">
 
 ## Summary
